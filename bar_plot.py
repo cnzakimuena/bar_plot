@@ -44,7 +44,7 @@ def generate_plot(df,
                          zorder=0,
                          err_kws={'color': 'black'},
                          hue=group_variable,
-                         palette=palette_list, 
+                         palette=palette_list,
                          legend=False,
                          edgecolor='black')
         plt.setp(ax.patches, linewidth=2)
@@ -62,7 +62,7 @@ def generate_plot(df,
                            fc='none',
                            edgecolor="black",
                            size=8, linewidth=2, zorder=2)
-        # explicitly edge color setting 
+        # explicit edge color setting
         for collection in ax.collections:
             collection.set_edgecolor("black")
 

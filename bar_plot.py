@@ -38,6 +38,7 @@ def generate_plot(df,
         # bar plot
         ax = sns.barplot(data=df, x=group_variable,
                          y=dependent_variable, order=group_variable_order,
+                         capsize=0.25,
                          zorder=0,
                          err_kws={'color': 'black'},
                          hue=group_variable,

@@ -25,4 +25,3 @@ Cite As
 1. [Anderson, E. (1936). The species problem in Iris. Annals of the Missouri Botanical Garden, 23(3), 457-509.](https://doi.org/10.2307/2394164)
 1. [Fisher, R. A. (1936). The use of multiple measurements in taxonomic problems. Annals of eugenics, 7(2), 179-188.](https://doi.org/10.1111/j.1469-1809.1936.tb02137.x)
 1. [Lim, K. Y., Matyasek, R., Kovarik, A., & Leitch, A. (2007). Parental origin and genome evolution in the allopolyploid Iris versicolor. Annals of Botany, 100(2), 219-224.](https://doi.org/10.1093/aob/mcm116)
-
